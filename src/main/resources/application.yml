@@ -1,0 +1,3 @@
+events:
+  client:
+    url: http://localhost:9000
